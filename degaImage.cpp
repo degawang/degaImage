@@ -34,7 +34,7 @@ int main()
         imwrite("./output/imageSahrp.bmp",outputMat);
 	cv::imshow("image result",outputMat);	
 	       
-	cv::waitKey(0);
+	cv::waitKey(8888);
 
     return 0;
 }
