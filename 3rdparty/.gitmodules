@@ -1,6 +1,0 @@
-[submodule "dlib"]
-	path = dlib
-	url = https://github.com/degawong/dlib
-[submodule "armadillo"]
-	path = armadillo
-	url = https://github.com/degawong/armadillo
