@@ -1,3 +1,6 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/degawong/test3rdParty
+[submodule "3rd/test"]
+	path = 3rd/test
+	url = https://github.com/degawong/test3rdParty
